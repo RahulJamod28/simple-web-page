@@ -1,2 +1,2 @@
 # simple-web-page
-this is our bootsrap website
+This is our bootsrap website
